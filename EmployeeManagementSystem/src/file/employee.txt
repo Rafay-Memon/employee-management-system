@@ -1,0 +1,20 @@
+ID: 1
+Name: Rafay
+Department: CS
+Salary: 200000.0
+----------------------------
+ID: 2
+Name: Saqib
+Department: SWE
+Salary: 300000.0
+----------------------------
+ID: 3
+Name: Touqeer
+Department: CSE
+Salary: 50000.0
+----------------------------
+ID: 4
+Name: Maroof
+Department: IT
+Salary: 500000.0
+----------------------------
